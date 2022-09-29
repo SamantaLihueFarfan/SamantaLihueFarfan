@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Samanta
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+![homer](https://user-images.githubusercontent.com/50427928/193081739-bc752d3f-0d4e-4d85-87ea-4faeb136d102.gif)
+
+
+<!---
+SamantaLihueFarfan/SamantaLihueFarfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
